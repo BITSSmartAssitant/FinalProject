@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_shape_list.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/shape_list.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_text_shape.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/text_shape.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_lll.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/lll.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_translucent_appbar.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/translucent_appbar.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/xml_file_path.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/xml/file_path.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_circlee.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/circlee.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_circle2.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/circle2.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_bggg.jpg.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/bggg.jpg"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_appbar_layout.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/appbar_layout.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_bgg2.jpg.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/bgg2.jpg"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_capture_image.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_capture_image.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/raw_apple_animate.json.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/raw/apple_animate.json"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_shape_panel.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/shape_panel.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_bg1.jpg.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/bg1.jpg"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/font_merienda.ttf.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/font/merienda.ttf"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_llogo.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/llogo.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_more_vert.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/more_vert.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/font_chelseamarket.ttf.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/font/chelseamarket.ttf"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_button_shape.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/button_shape.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/font_ribeye.ttf.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/font/ribeye.ttf"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_display_img.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_display_img.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/font_jost.ttf.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/font/jost.ttf"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable_button_shape2.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable/button_shape2.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_bgg3.jpg.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/bgg3.jpg"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/layout_activity_fruit_list.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/layout/activity_fruit_list.xml"
+    },
+    {
+        "merged": "/Users/chhayagupta/Documents/Smart_Assistant/app/build/intermediates/merged_res/debug/drawable-v24_bg.xml.flat",
+        "source": "/Users/chhayagupta/Documents/Smart_Assistant/app/src/main/res/drawable-v24/bg.xml"
+    }
+]

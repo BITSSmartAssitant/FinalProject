@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7d154079cca82cda59933ca6e11f53ce/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/4376e8a1f342e2cac929603e4be81771/transformed/jetified-lottie-3.4.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a2552705d8c48772591cc7e52d09d014/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:15:1-38:12
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9353369e489ba73aa172aeb6e19c04bc/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/308aed3411f4515d23c99d20634eb2f9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0ccd9078bb6ddfab77606515c72a8de6/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9ccbfa897f69d548b42a976751be5361/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ae267dc7de481c98b305612cdb5f2678/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9b22d6366ba0b3428b2997c59f62e46c/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/67b44bf557b332ec36e833e8aaf54357/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/afaee1af7994629aef012bf43ed47f81/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a666f8b8295e856ea4a992c9136267ad/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3a70082a85aefa51c7bbc864953a3e30/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e57a478d5953c14f5f7143f7ec6bec7a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/522ace62ed82bf36b811ba7e8537ad67/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fc36c2596a3309d3e0e26d4a6bb3fae7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0a1a3954f73c61e2cf05247abd625b3d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/427596943ebc634dc0d5c6fc98c1a47e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2f11cc4869fe80d838d61a63efc08b89/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9db23b0109e05d53e966e8b017862c9c/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3df431df0cb0d15f6d9d09f16d1ecc2d/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e52675ac51c076ac3e4d4b5e1d02da5f/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a03cd781a54da75d24e1cfe8acf5fae9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/6e91ea5da5706b78441ed8ce71062396/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e375417becd748404c8f48c7e779da/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/bb968152d9b73c86a6b63afd519e80dd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7a60dc9cebb28018cb3d97d161889c9e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/f5faf206a4321ca372fa8ece431b9351/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b275b8bd85181d72e0cbed1db412213a/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.Camera
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:12:5-41:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7d154079cca82cda59933ca6e11f53ce/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7d154079cca82cda59933ca6e11f53ce/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/4376e8a1f342e2cac929603e4be81771/transformed/jetified-lottie-3.4.2/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/4376e8a1f342e2cac929603e4be81771/transformed/jetified-lottie-3.4.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0ccd9078bb6ddfab77606515c72a8de6/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0ccd9078bb6ddfab77606515c72a8de6/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ae267dc7de481c98b305612cdb5f2678/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ae267dc7de481c98b305612cdb5f2678/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9b22d6366ba0b3428b2997c59f62e46c/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9b22d6366ba0b3428b2997c59f62e46c/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e52675ac51c076ac3e4d4b5e1d02da5f/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e52675ac51c076ac3e4d4b5e1d02da5f/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.bits.smartassistant.signup
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:19:19-41
+activity#com.bits.smartassistant.CaptureImage
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.bits.smartassistant.login
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:21:19-40
+activity#com.bits.smartassistant.fruit_list
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:22:19-45
+activity#com.bits.smartassistant.DisplayImg
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:23:19-45
+activity#com.bits.smartassistant.MainActivity
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:28:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:grantUriPermissions
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:36:13-47
+	android:authorities
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:34:13-64
+	android:exported
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:33:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:37:13-39:53
+	android:resource
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:39:17-50
+	android:name
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml:38:17-67
+uses-sdk
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7d154079cca82cda59933ca6e11f53ce/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7d154079cca82cda59933ca6e11f53ce/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/4376e8a1f342e2cac929603e4be81771/transformed/jetified-lottie-3.4.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/4376e8a1f342e2cac929603e4be81771/transformed/jetified-lottie-3.4.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a2552705d8c48772591cc7e52d09d014/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a2552705d8c48772591cc7e52d09d014/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9353369e489ba73aa172aeb6e19c04bc/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:picasso-transformations:2.2.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9353369e489ba73aa172aeb6e19c04bc/transformed/jetified-picasso-transformations-2.2.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/308aed3411f4515d23c99d20634eb2f9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/308aed3411f4515d23c99d20634eb2f9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0ccd9078bb6ddfab77606515c72a8de6/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0ccd9078bb6ddfab77606515c72a8de6/transformed/jetified-firebase-appcheck-interop-16.0.0-beta02/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9ccbfa897f69d548b42a976751be5361/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9ccbfa897f69d548b42a976751be5361/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ae267dc7de481c98b305612cdb5f2678/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ae267dc7de481c98b305612cdb5f2678/transformed/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9b22d6366ba0b3428b2997c59f62e46c/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9b22d6366ba0b3428b2997c59f62e46c/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/67b44bf557b332ec36e833e8aaf54357/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/67b44bf557b332ec36e833e8aaf54357/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/afaee1af7994629aef012bf43ed47f81/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/afaee1af7994629aef012bf43ed47f81/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a666f8b8295e856ea4a992c9136267ad/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a666f8b8295e856ea4a992c9136267ad/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3a70082a85aefa51c7bbc864953a3e30/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3a70082a85aefa51c7bbc864953a3e30/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e57a478d5953c14f5f7143f7ec6bec7a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e57a478d5953c14f5f7143f7ec6bec7a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/522ace62ed82bf36b811ba7e8537ad67/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/522ace62ed82bf36b811ba7e8537ad67/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fc36c2596a3309d3e0e26d4a6bb3fae7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fc36c2596a3309d3e0e26d4a6bb3fae7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0a1a3954f73c61e2cf05247abd625b3d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/0a1a3954f73c61e2cf05247abd625b3d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/427596943ebc634dc0d5c6fc98c1a47e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/427596943ebc634dc0d5c6fc98c1a47e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2638dd79da2626b70d75de9c591ccdca/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2f11cc4869fe80d838d61a63efc08b89/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2f11cc4869fe80d838d61a63efc08b89/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9db23b0109e05d53e966e8b017862c9c/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/9db23b0109e05d53e966e8b017862c9c/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3df431df0cb0d15f6d9d09f16d1ecc2d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/3df431df0cb0d15f6d9d09f16d1ecc2d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e52675ac51c076ac3e4d4b5e1d02da5f/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/e52675ac51c076ac3e4d4b5e1d02da5f/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a03cd781a54da75d24e1cfe8acf5fae9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/a03cd781a54da75d24e1cfe8acf5fae9/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/6e91ea5da5706b78441ed8ce71062396/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/6e91ea5da5706b78441ed8ce71062396/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e375417becd748404c8f48c7e779da/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e375417becd748404c8f48c7e779da/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/bb968152d9b73c86a6b63afd519e80dd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/bb968152d9b73c86a6b63afd519e80dd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7a60dc9cebb28018cb3d97d161889c9e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/7a60dc9cebb28018cb3d97d161889c9e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/f5faf206a4321ca372fa8ece431b9351/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/f5faf206a4321ca372fa8ece431b9351/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b275b8bd85181d72e0cbed1db412213a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b275b8bd85181d72e0cbed1db412213a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chhayagupta/Documents/Smart_Assistant/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/eab9c397596322eef37af423d240022e/transformed/jetified-firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.4] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/fe47a573ae55456ec07137776f8c45c2/transformed/jetified-firebase-database-20.0.4/AndroidManifest.xml:33:17-109
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/2d9e0d213943773e7aa1ff934209be7b/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/ddf2ea964a10c02f18e229dac400bcb3/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/chhayagupta/Downloads/SeeFood-master/caches/transforms-3/d5e21ce6b9b5117f297dc5bc2c1d69c3/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58

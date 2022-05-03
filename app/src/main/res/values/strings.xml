@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Assistant</string>
+    <string name="hyperlink"><a>Sign Up</a></string>
+    <string name="hyperlink2"><a>SKIP</a></string>
+</resources>

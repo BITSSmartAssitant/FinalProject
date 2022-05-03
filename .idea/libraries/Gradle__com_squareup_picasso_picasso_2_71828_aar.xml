@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.picasso:picasso:2.71828@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72d5052ec243f47e42643ff94a235578/transformed/jetified-picasso-2.71828/res" />
+      <root url="file://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/87a8d2e8dbb34c17b4df3678da027975/transformed/jetified-picasso-2.71828/res" />
+      <root url="jar://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/res" />
+      <root url="file://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/b16fc63d675f34d5ec6ee42d11de5e06/transformed/jetified-picasso-2.71828/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/4261c9ba421cf7652828a0fcbc73ad41/transformed/jetified-picasso-2.71828/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/4261c9ba421cf7652828a0fcbc73ad41/transformed/jetified-picasso-2.71828/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/SeeFood-master/caches/transforms-3/4261c9ba421cf7652828a0fcbc73ad41/transformed/jetified-picasso-2.71828/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/SeeFood-master/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.71828/2843564e6bac90b1e125104d7c842c87a96a8ee9/picasso-2.71828-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/SeeFood-master/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.71828/41874e20a4d17fd4ad2052ac217073e14d00c910/picasso-2.71828-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

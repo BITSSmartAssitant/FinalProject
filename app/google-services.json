@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978456455796",
+    "project_id": "samastassauth",
+    "storage_bucket": "samastassauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978456455796:android:67edf3ed811ed348daff21",
+        "android_client_info": {
+          "package_name": "com.bits.smartassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978456455796-snd03r9a1vjr82u5thdj2o0sr570h1ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2XbkaAf5yZLP5t0lELlM0rU57p3hhoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978456455796-snd03r9a1vjr82u5thdj2o0sr570h1ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
